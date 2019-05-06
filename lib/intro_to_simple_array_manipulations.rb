@@ -82,7 +82,7 @@ end
 
 def using_delete_at(array, integer)
 
-  return array.delete(integer)
+  return array.delete_at(0)(integer)
 
   
 end
