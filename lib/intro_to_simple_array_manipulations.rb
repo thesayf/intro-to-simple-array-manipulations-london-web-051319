@@ -80,4 +80,7 @@ def using_delete(array, string)
   
 end
 
+using_delete_at(array, )
+
+end
 
