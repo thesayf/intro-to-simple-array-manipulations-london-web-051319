@@ -82,5 +82,7 @@ end
 
 using_delete_at(array, integer)
 
+  array.delete()
+
 end
 
